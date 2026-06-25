@@ -1,0 +1,14 @@
+D:\Лабы\Белодед\c#\BankManager\BankManager\bin\Debug\net8.0\BankManager.exe
+D:\Лабы\Белодед\c#\BankManager\BankManager\bin\Debug\net8.0\BankManager.deps.json
+D:\Лабы\Белодед\c#\BankManager\BankManager\bin\Debug\net8.0\BankManager.runtimeconfig.json
+D:\Лабы\Белодед\c#\BankManager\BankManager\bin\Debug\net8.0\BankManager.dll
+D:\Лабы\Белодед\c#\BankManager\BankManager\bin\Debug\net8.0\BankManager.pdb
+D:\Лабы\Белодед\c#\BankManager\BankManager\obj\Debug\net8.0\BankManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы\Белодед\c#\BankManager\BankManager\obj\Debug\net8.0\BankManager.AssemblyInfoInputs.cache
+D:\Лабы\Белодед\c#\BankManager\BankManager\obj\Debug\net8.0\BankManager.AssemblyInfo.cs
+D:\Лабы\Белодед\c#\BankManager\BankManager\obj\Debug\net8.0\BankManager.csproj.CoreCompileInputs.cache
+D:\Лабы\Белодед\c#\BankManager\BankManager\obj\Debug\net8.0\BankManager.dll
+D:\Лабы\Белодед\c#\BankManager\BankManager\obj\Debug\net8.0\refint\BankManager.dll
+D:\Лабы\Белодед\c#\BankManager\BankManager\obj\Debug\net8.0\BankManager.pdb
+D:\Лабы\Белодед\c#\BankManager\BankManager\obj\Debug\net8.0\BankManager.genruntimeconfig.cache
+D:\Лабы\Белодед\c#\BankManager\BankManager\obj\Debug\net8.0\ref\BankManager.dll

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041B\u0430\u0431\u044B\\\u0411\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\BankManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44071F90-3B19-4DA5-A90B-5DEF7D2A6F6B}|BankManager\\BankManager.csproj|c:\\users\\user\\desktop\\\u043B\u0430\u0431\u044B\\\u0431\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\bankmanager\\bankmanager\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44071F90-3B19-4DA5-A90B-5DEF7D2A6F6B}|BankManager\\BankManager.csproj|solutionrelative:bankmanager\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44071F90-3B19-4DA5-A90B-5DEF7D2A6F6B}|BankManager\\BankManager.csproj|c:\\users\\user\\desktop\\\u043B\u0430\u0431\u044B\\\u0431\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\bankmanager\\bankmanager\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44071F90-3B19-4DA5-A90B-5DEF7D2A6F6B}|BankManager\\BankManager.csproj|solutionrelative:bankmanager\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44071F90-3B19-4DA5-A90B-5DEF7D2A6F6B}|BankManager\\BankManager.csproj|c:\\users\\user\\desktop\\\u043B\u0430\u0431\u044B\\\u0431\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\bankmanager\\bankmanager\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44071F90-3B19-4DA5-A90B-5DEF7D2A6F6B}|BankManager\\BankManager.csproj|solutionrelative:bankmanager\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44071F90-3B19-4DA5-A90B-5DEF7D2A6F6B}|BankManager\\BankManager.csproj|c:\\users\\user\\desktop\\\u043B\u0430\u0431\u044B\\\u0431\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\bankmanager\\bankmanager\\avtorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44071F90-3B19-4DA5-A90B-5DEF7D2A6F6B}|BankManager\\BankManager.csproj|solutionrelative:bankmanager\\avtorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Avtorization.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041B\u0430\u0431\u044B\\\u0411\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\BankManager\\BankManager\\Avtorization.cs",
+              "RelativeDocumentMoniker": "BankManager\\Avtorization.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041B\u0430\u0431\u044B\\\u0411\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\BankManager\\BankManager\\Avtorization.cs",
+              "RelativeToolTip": "BankManager\\Avtorization.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:10:15.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041B\u0430\u0431\u044B\\\u0411\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\BankManager\\BankManager\\Log.cs",
+              "RelativeDocumentMoniker": "BankManager\\Log.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041B\u0430\u0431\u044B\\\u0411\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\BankManager\\BankManager\\Log.cs",
+              "RelativeToolTip": "BankManager\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:10:15.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041B\u0430\u0431\u044B\\\u0411\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\BankManager\\BankManager\\User.cs",
+              "RelativeDocumentMoniker": "BankManager\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041B\u0430\u0431\u044B\\\u0411\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\BankManager\\BankManager\\User.cs",
+              "RelativeToolTip": "BankManager\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:10:15.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041B\u0430\u0431\u044B\\\u0411\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\BankManager\\BankManager\\Bank.cs",
+              "RelativeDocumentMoniker": "BankManager\\Bank.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041B\u0430\u0431\u044B\\\u0411\u0435\u043B\u043E\u0434\u0435\u0434\\c#\\BankManager\\BankManager\\Bank.cs",
+              "RelativeToolTip": "BankManager\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T06:10:15.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
